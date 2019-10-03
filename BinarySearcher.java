@@ -1,5 +1,3 @@
-package io.github.alexanderheim.binarysearch;
-
 public class BinarySearcher {
 
 	private int[] intArray;
